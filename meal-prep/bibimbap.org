@@ -1,0 +1,71 @@
+#+startup: showall
+* Bibimpob
+
+** Ingredients
+- 1 lb. Lean Ground Beef
+  - 1 Tbsp Reduced Sodium Soy Sauce
+  - 1 Tbsp Sesame Oil
+  - 1/4 Tsp Minced Garlic
+  - 1 Tsp Sugar (Optional)
+  - 1.5 Tsp Sriracha Sauce (Optional)
+- 1 Bunch Fresh Spinach or 5-6 Cups of Baby Spinach
+- 2 Carrots, Matchsticks
+- 1 Zucchini, Sliced
+- 1-2 Large Shiitake or Portobello Mushroom, Sliced
+- 1/4 Medium Sized Red Cabbage, Chopped
+- For Each Vegetable
+  - 1/2 Tsp Sesame Oil
+  - 1/2 Tsp Minced Garlic
+  - Pinch of Salt
+- 1.5 Cups Rice, Cooked
+- 5 Large Eggs
+- Sriracha Sauce (Optional)
+- Dried Seaweed, Cut in Strips (Optional)
+- Sesame Seeds to Top (Optional)
+
+** Directions
+1. Boil 1.5 cups of white or brown rice.
+
+2. Mix 1 tbsp soy sauce, 1 tbsp sesame oil, 1/4 tsp minced garlic, 1
+   tsp sugar, and 1.5 tsp sriracha sauce into learn ground beef. Hook
+   in a non-stick skillet over medium heat until ground beef is fully
+   cooked.
+
+3. In a large skillet over medium heat, add a few drops of sesame oil
+   and half a tsp of minced garlic. Cook each vegetable for
+   approximately 3-5 minutes. Do not over cook the vegetables. Once
+   they are cooked, add a pinch of salt.
+
+4. Fry 5 eggs in a non-stick skillet.
+
+5. Arrange in containers. Top with egg, sriracha, and sesame seeds.
+
+#+BEGIN_QUOTE
+Bibimbap is traditionally served with Kochujang sauce. The recipe can
+be easily found online. For the sake of convenience and time I
+substitute this with Sriracha.
+#+END_QUOTE
+
+** Nutrition
+
+| Cal     | 510  |
+| Carb    | 62 g |
+| Protein | 32 g |
+| Fat     | 15 g |
+
+** Notes
+
+Some recipes call for boiling vegetables. That’s the best method if
+you’re going to eat this right away. However, I don’t suggest boiling
+the vegetables if you are prepping. They will get extremely soggy
+throughout the week.
+
+** Information
+
+| Category  | Main Dishes |
+| Cuisine   | Korean      |
+| Yield     | 5 servings  |
+| Cook Time | 1 hour      |
+
+** Source
+[[https://mymealprepsunday.com/2016/02/28/bibimbap/][Original recipe]]
