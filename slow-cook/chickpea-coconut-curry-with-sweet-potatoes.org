@@ -1,3 +1,4 @@
+#+startup: showall
 * Chickpea Coconut Curry with Sweet Potatoes
 
 ** Ingredients

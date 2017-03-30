@@ -1,3 +1,4 @@
+#+startup: showall
 * Cashew Chicken
 
 ** Ingredients
