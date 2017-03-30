@@ -49,3 +49,6 @@
 
 ** Source
 [[http://www.delish.com/cooking/recipe-ideas/recipes/a51853/peanut-butter-stuffed-cookies-recipe/][Original recipe]]
+
+** Images
+[[./img/peanut-butter-cookies-theirs.jpg]]
