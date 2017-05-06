@@ -62,7 +62,7 @@ throughout the week.
 
 ** Information
 
-| Category  | Main Dishes |
+| Category  | Main dishes |
 | Cuisine   | Korean      |
 | Yield     | 5 servings  |
 | Cook Time | 1 hour      |

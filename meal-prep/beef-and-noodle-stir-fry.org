@@ -1,0 +1,67 @@
+#+startup: showall
+* Beef and Noodle Stir-Fry
+
+** Ingredients
+*** Sauce
+- 3 Tbsp soy sauce
+- 1 Tbsp water
+- 1 Tbsp brown sugar
+- 1-2 Tbsp chili garlic sauce, sambal, or sriracha
+- 1 tsp sesame oil
+*** Stir Fry
+- 8oz. rice noodles
+- 2 cloves garlic
+- 1 Tbsp grated ginger
+- 1 Tbsp vegetable oil
+- ½ lb. lean ground beef
+- 1 carrot
+- 3-4 green onions
+- 1 crown broccoli
+- 1 large handful mushrooms
+- Handful fresh cilantro (optional)
+
+** Directions
+
+1. Cook the noodles according to the package directions, being careful
+   to leave them al dente and not over cooked. drain the noodles in a
+   colander and set aside.
+
+2. Prepare the sauce by stirring together the soy sauce, water, brown
+   sugar, chili garlic sauce, and sesame oil. Set the sauce aside.
+
+3. Mince the garlic and grate the ginger. Use a large-holed cheese
+   grater to grate the carrot (or julienne using a mandoline). Slice
+   the green onions on a diagonal, separating the fleshy white
+   portions from the green ends.
+
+4. Heat the vegetable oil in a large skillet over medium heat. Once
+   hot, add the ground beef, garlic, and ginger. Sauté until the beef
+   is cooked through. Add the white portions of the sliced green
+   onions and sauté for one more minute. Add the shredded carrots and
+   sauté for one minute more (leaving the carrots slightly crunchy).
+
+5. Cut the broccoli into reasonably-sized pieces and julienne the
+   mushrooms.  Heat oil in a pan, when hot stir fry the broccoli and
+   mushrooms.
+
+6. Add the drained noodles, the prepared sauce, and the stir-fried
+   vegetables to the skillet. Stir until everything is coated in sauce
+   and any extra moisture has been absorbed by the noodles. Turn the
+   heat off and top with the green portion of the sliced green onions
+   and fresh cilantro leaves.
+
+** Information
+
+| Category   | Main dishes |
+| Total cost | $7.93       |
+| Yield      | 4 servings  |
+| Prep time  | 10 minutes  |
+| Cook time  | 20 minutes  |
+| Total time | 30 minutes  |
+
+** Visual
+
+[[./img/beef-and-noodle-stir-fry.jpg]]
+
+** Source
+[[https://www.budgetbytes.com/2016/01/stir-fry-beef-noodles/][Original recipe]]
